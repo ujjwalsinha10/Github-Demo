@@ -6,6 +6,7 @@ public class TestClass {
 
 		System.out.println("Test for github Commit");
 		System.out.println("Test for github Commit");
+		System.out.println("Here 3rd line added.");
 	}
 
 }
